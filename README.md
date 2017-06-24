@@ -1,2 +1,2 @@
 # deximus
-Decentralized exchange for international business and banking transations
+Decentralized currency exchange for international business and banking transations.
