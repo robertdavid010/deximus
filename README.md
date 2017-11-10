@@ -1,6 +1,6 @@
 # DEXIMUS
 
-** Decentralized currency exchange for international business and banking transations. **
+**Decentralized currency exchange for international business and banking transations.**
 
 [Deximus Project Website](http://deximusblockchain.com)
 
