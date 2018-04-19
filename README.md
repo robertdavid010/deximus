@@ -1,125 +1,87 @@
-# DEXIMUS
+# Deximus
+*Decentralized Blockchain Exchange*
 
-**Decentralized currency exchange for international business and banking transations.**
+## Introduction
+The evolution of Blockchain has created incredible disruption in the technology and finance industries. Its critical-path of innovation follows the development of solutions to the primary friction points blocking its further development. Exchange was the first barrier to overcome to allow the basic trading of blockchain assets necessary for it’s adoption, and asset holders’ profit. It has also become common understanding that existing legacy financial systems rely heavily on outdated technology, and are in prime position to benefit from blockchain efficiencies.
 
-[Deximus Project Website](http://deximusblockchain.com)
+> The next phase in blockchain evolution solves the remaining problems in the exchange ecosystem, while standardizing the Internet Of Value for broader adoption.
 
-## Outline
-1. Technical Strategy Proposal
-1. Table of Contents
-1. DEXIMUS TECHNICAL STRATEGY PROPOSAL
-1. OPPORTUNITY
-1. MAXIMIZING VALUE
-1. VALUE PROPOSITION
-1. MARKET TIMING
-1. MONETIZATION
-1. DIGITAL PROPERTY
-1. REVENUES
-1. ACCESS SALES & PARTNERSHIPS
-1. FUNDRAISING
-1. TECHNOLOGY
-1. REQUIREMENTS
-1. EXISTING TECHNOLOGY
-1. ARCHITECTURE
-1. COMPONENTS
-1. SCHEDULE
-1. CONCLUSION
+Initially blockchain exchanges operated as centralized services operating in the middle of the transaction to execute the exchange. However the cash basis accounting used in autonomous blockchain networks means these services inherit tremendous risk from the impossibility to redress errors or losses caused by their system. The result was the passing along of this cost to users. 
 
-This is a proposal for the technical strategy of the Deximus project in meeting its goal for creating a Decentralize Exchange (DEX) for facilitation of inter-blockchain asset exchange and trading as a core foundational component of a broad multi-blockchain ecosystem for the backbone of the “Internet Of Value”.
+One of the most disruptive emerging technical innovations addressing existing blockchain exchange problems is inter-ledger transactions. The emergence of the Internet Of Value is based on interconnectivity between multiple independent blockchains through this common transaction protocol. Due to the “trustless” nature of DApps the IOV will require co-dependent two-way linking. This involves using a “hub” blockchain to act as a notary for these inter-blockchain transfers of funds, which is the core of the **Decentralized Exchange**.
 
-The DEX is without a doubt a challenging and very rewarding project to undertake. This proposal will attempt to show how to best leverage technology in achieving the maximum returns for technical investment.
+> The Decentralized Exchange (DEX) emerges as the next stage in the development of blockchain solutions enabling its further evolution.
 
-## Opportunity
-The full potential of a multi-asset blockchain protocol is a common standard for synchronization of asset transfers between different blockchains, and between different consensus mechanisms and asset types.
+The DEX also addresses the need for ultra-secure high value, low volume, and brokered type of exchange in blockchain denominated assets that cannot risk any type of centralized service. This is very much appropriate for business or institutional transactions in real world applications.
 
-The reason for this is that all non-essential components to both the financial relationships in the ledger, and for the technical function of the system, are potential barriers and friction. The approach of this proposal gives both the lowest barrier to technical achievement in terms of scope, while also creating technical innovation and compounding the reduced friction of bringing a more standardized protocol to the marketplace.
+The Deximus project will implement a DEX protocol standard with a unique approach, a viable go to market strategy using a Redhat+ business model, and real world use cases. 
 
-This method of value transfer between blockchains is commonly referred to in its technical function as a “Decentralized Exchange” or DEX.
+## Decentralized Exchange & IOV 
 
-## Value Proposition
-A DEX makes possible the synchronization of the transfer of value between multiple ledgers using a standard protocol in place of centralized authority. The open operation of such an exchange platform creates tremendous potential for low barrier to entry asset exchange, a major competitive advantage to legacy international exchange.
+The DEX operates to facilitate the exchange of value between ledgers by bridging trust as a first independent “party” to an exchange. The subsequent main asset blockchains can execute a synchronized but independent transfer of funds when the common sidechain of the DEX, as recognized by the “main-chains”, has notarized a matched exchange order. 
 
-Decentralized Exchange Key Features
-1. Multi-ledger value transfer synchronization through “hub” blockchain
-1. Audit trail of reconciled trades
-1. Currency agnostic transactions for payments
-1. Autonomous operation
-1. Global scalability
-1. All permissioned (POS) blockchain benefits
+Multiple interlinked DEXs create a distributed blockchain transaction routing network for the exchange and transfer of crypto-assets. This is the technology ecosystem that will form the backbone of the **Internet OF Value** (IOV). A necessary aspect of the broader adoption is also the blockchain DNS. With the ability to route transactions as data is routed today on the Internet, the resulting asset agnostic transactions is the true potential of a borderless Internet of Value made possible by inter-ledger transactions and decentralized exchanges.
 
-## Market Timing
-The business model of Deximus deployment services addresses the market opportunity for the real world business applications of a decentralized exchange. The convergence of these opportunities demonstrates a strong disruptive potential in the market acceptance of blockchain technology.
+## Deximus
 
-**Summary**
+The primary goal of Deximus is to facilitate adoption of inter-ledger transactions for business and institutions through a standardized and asset agnostic implementation of innovative multi-ledger blockchain technology for clients and partners. The specifications of Deximus will be open sourced, along with final protocol code. The Deximus DEX implementation will offer specific advanatages:
 
-1. Opportunity gap: Lack of consensus and leadership around a multi-blockchain standard.
-1. Timing: Evolution of multi-blockchain technology (HyperLedger, Cosmos, etc.)
-1. Timing: Market demand for more blockchains/ICO’s
-Monetization
+### Interledger Decentralized Exchange
+Deximus will use state of the art interledger technology (initially using Cosmos by Tendermint) of various types to implement initial and future versions of the Deximus decentralized exchange standard for its clients and partners. 
 
-Clearly the opportunity to monetize any blockchain platform, and a DEX presents both unique opportunities and challenges. It is important to maximize monetization for investment returns, but also to eliminate gaps which competition may later more easily otherwise fill.
+### EBAN Account Standard
+A standard inter-ledger addressing scheme for blockchains as a combination of:
 
-## Digital Property
-In the formation of any permissioned decentralized blockchain protocol, special privileges and responsibilities are declared at the instantiation of the ledger to a set of public keys. The first consensus reached by the system is the consensus of the validator/gateway nodes on which other validator/gateway nodes they will recognize in the operation of the consensus protocol on the state of the ledger.
+* Interledger Blockchain Addressing
+* ICAP
+* HDW
 
-Specifically, this will allow the Deximus partner to hold incredibly valuable assets as digital properties by controlling the private keys to these access privileges in the protocol. As will the partners in the consensus and as is consistent with “Proof of Stake” consensus mechanisms.
+The purpose of an EBAN is to have a commonly understandable accounts addressing format for inter-ledger and inter-asset exchange within blockchain networks. This is to aid in generating traction for the IOV, and to support inter-ledger transaction routing. It is a consumer friendly aspect of the Deximus standard allowing for easy delineation between legacy financial technology, and blockchain financial technology. 
 
-## Revenues
-As is consistent with POS blockchains, transaction validators/gateways are able to generate revenue, for both security and incentive purposes. It is important to realize that fees may not be limited to merely transactions in the base credit units, but also in derivative or secondary assets and smart contracts operated within the system.
-Access Sales & Partnerships
-All value and monetization which Deximus services can realize, Senator’s partners will be able to realize in leveraging the platform in the issuance of their own blockchain based digital assets into a ready made marketplace.
+### Multi-Blockchain DNS
+As in the need for universal addressing schemes for the Internet, the IOV also be reliant on addressing schemes for routing of trancations. This is necessary to facilitate communication between separate but indirectly connected blockchains. DNS type services for the registration as source of authority to resolve collisions and conflicts of address prefixes will need to be implemented. This is left outside the initial scope of the Deximus project, and will be addressed as the inter-ledger protocol evolves, and as both technical standards and regulatory bodies evolve.
 
-Deximus platforms will be able to either charge for access for these partner blockchains to it’s co-dependent decentralized exchange, or potentially receive digital asset or tokens in a swap of value in the associated blockchains, or even in their operational and access privileges.
-Fundraising
-It should be noted that the DEX hub blockchain itself might end up having only  a limited function token, or no token at all. This will be necessary to facilitate the true market function of asset pair exchange, without additional value flux in the system introduced by the existence of an intermediary or even operational value measure.
-Technology
-Requirements
-These are the areas of technology domain required to satisfy architectural and strategic requirments:
+## Unique Value
+The ability to facilitate low cost exchange of value is a big benefit to businesses, institutions, and organizations wanting to transact in larger values, but facing the friction of current international banking systems. As a primary first use-case, Deximus is will be implemented as a transaction platform for international business and institutional transactions. 
 
-1.	Blockchain architecture
-2.	Research
-3.	Security
-4.	Development
-5.	Testing
-6.	Deployment
-7.	Integrations
-8.	Distribution
+Deximus is targeted at industry consortiums or private exchange networks already facilitating international transactions.  The DEX can even operate transparently as the backend for more standard payments and transaction services. Both legacy and new crypto exchange or multi-currency transaction services can implement the Deximus standard to leverage the value of a DEX’s security and data integrity and support transitioning to the broader adoption of blockchain as well as be positioned for the increased accessibility to banking ledger services made possible by continuing “virtual banking” trends.
 
-The technical requirements of both personnel and infrastructure comprise nearly the full development stack of the blockchain ecosystem.
-Existing Technology
-Leveraging an existing technology platform that meets the requirments of the decentralized exchange architecture briefly outlined here, then there should be minimal requirements on low level compiled languages (correlating to the necessity of core transaction protocol modifications), and will mostly rely on scripting languages and technology for creating the smart-contracts and custom management software or payment apps.
+### Beyond Atomic
+Deximus intends to expand on more than just atomic exchange currently implemented in interledger protocols. Deximus is designed for larger transaction value, and lower transaction volume, and as such the initial use case may only need support atomic exchange. The core technology used in Tendermint provides the ability to extend the logic of the DApp using it’s framework.
 
-Existing technology that may be used could include:
-* Cosmos
-* Hyper Ledger
-* Open Bankit
-* Etc…
+### Tokenless
+The Deximus DEX standard is initially designed as an implementation of the Cosmos interledger network. Importantly Deximus takes a unique approach: Exchange between value measures across ledgers does not involve the “exiting” of funds from the ledger. As with all exchange in finance, it is the synchronization of account transaction between multiple ledgers that is the mechanism of exchange. 
 
-## Architecture
-The proposed architecture of the Decenentralized exchange codenamed “Deximus”, will be a modification of the initial concepts developed by the Cosmos project in their description of a conceptual overview, with a few modificatinos.
+Likewise with typical exchange methods in existing financial systems, this same approach can be implemented in the blockchain, merely using the bridge blockchain hub as a limited notary for the synchronization of the exchange of funds between accounts across ledgers.
 
-Instead of focusing on the ability to transmit “packets” of information between blockchains, we take the financial approach as primary, as it is what defines relationships and transactions in the blockchain application specific to Deximus.
+Importantly in the development of a common standard, no party to the standard should feel at risk from the incentive of a sole source of interest in the platform. The tokenless concept of the DEX ensures the parties and participants in the DEX and corresponding main blockchain networks have no particular advantage.
+Use Case
 
-## Components
-It is proposed to attempt to implement the following:
+The tokenless approach of Deximus is designed to support individual asset pairing exchanges as in a currency market. This approach is best suited to the inter-ledger exchange of assets as any blockchain based value measure will itself be able traded against other assets in the free market, supporting growth in liquidity.
 
-1. Protocol level order book operation in mempool
-1. Recording of the reconciliation in trades in the blockchain ledgers of both the exchange hub and corresponding blockchain asset ledgers.
-1. Protocol level accounts for operation of market making mechanisms in asset blockchains and exchange hub order matching
-1. Standardized account addressing format for ease of recognition and operation of paired accounts transactions across multiple ledgers, sharing same originating keysets (HDW).
+Initial implementations with existing partners will focus on virtual currency for e-banking and gaming.
 
-## Schedule
-The desired outcome for the development of the technology is such that a working prototype that proves the capability of the system is demonstrable going into a crowd or public funding round.
+## Business Model
+The Deximus Organization will operate as a legitimate US/EU company. It will oversee the deployment of blockchain technology following the Deximus protocol and standards for partners and customers. Both transactional and services revenue will be generated as Deximus will also operate gateways on deployed networks. This can be called the RedHat+ business model.
 
-The full process through architecture, team building, research, and through to deployment is estimated to take approximately 1 year. At this preliminary stage it is hard to estimate what impact any major changes or pivots in strategy will have on the schedule, however this should be sufficient time to manage minor changes in project or product development.
+The primary goal of Deximus will be the development of a successful business model. The initial asset of offer in exchange for private investment funding will be for equity stake within the organization. Following rounds of fundraising will be performed in a manner compliant with regulations of the jurisdiction for the organization and only as needed.
+
+Crowd-funding may be employed later on in the project, as the needs of the organization and the opportunity emerges. Importantly Deximus recognizes that crowd-funding offers less initial value added than strategic investment partners. 
+
+## Team
+
+Together the Deximus team has experience in:
+* Extensive industry leading blockchain experience
+* Award winning Blockchain 2.0 architecture
+* Innovative technical designs and white papers for various Blockchain projects
+* Several crowdsale and ERC20 contracts for various startups, including token disbursement contracts for over $150M in tokens to 3,000+ addresses in a safe and trustless manner
+* Open source community leadership & engagement
+* VC funded Blockchain projects in Silicon Valley
+* Decentralized messaging protocol and comment board built on top of Ethereum
+* Decentralized exchange that allows for atomic swaps between two tokens
 
 ## Conclusion
-This strategic and architectural proposal for the application for blockchain technology in accordance with Deximus partner business model shows an optimized approach to meeting the matching market and technical opportunity. The timing is right for seizing market-share in the now proven blockchain technology space and markets.
+Deximus is strategically positioned and timed to take advantage of the incredible opportunity to be a crucial component the Internet Of Value as it emerges. The existing trends in Inter-ledger transactions and Decentralized Exchanges of the “Third Wave” of blockchain technology will usher a once in a lifetime opportunity, and in this rapidly evolving industry the time to take advantage is now!
 
-The technology at the core of this proposal represents the attempt at creating one of the “Holy Grails” of blockchain technology, and regardless of the degree of success in this direction, even modified existing standards can facilitate the intended function of the system to match with Deximus partner’s business model.
-
-DEX is cool.
-
-The branding potential is a positive aspect to the technology, and should not be underestimated.
-
-Lastly, and mostly importantly, having core team members of the business and technical side of a startup whose necessarily different visions coincide such as that between Deximus partners and the Deximus architecture, lead to the potential for great team synergy.
+*Contact Us*
+vip+deximusorg@gmail.com
