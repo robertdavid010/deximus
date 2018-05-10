@@ -1,5 +1,6 @@
 # Deximus
 *Decentralized Blockchain Exchange*
+[http://deximusblockchain.com]
 
 ## Introduction
 The evolution of Blockchain has created incredible disruption in the technology and finance industries. Its critical-path of innovation follows the development of solutions to the primary friction points blocking its further development. Exchange was the first barrier to overcome to allow the basic trading of blockchain assets necessary for it’s adoption, and asset holders’ profit. It has also become common understanding that existing legacy financial systems rely heavily on outdated technology, and are in prime position to benefit from blockchain efficiencies.
